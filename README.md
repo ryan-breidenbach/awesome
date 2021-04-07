@@ -11,7 +11,7 @@ A list of resources for all things AWS.
 
 ## Step Functions
 
-## Documentation
+### Documentation
 
 * [Quotas](https://docs.aws.amazon.com/step-functions/latest/dg/limits-overview.html)
 
