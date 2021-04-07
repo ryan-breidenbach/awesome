@@ -11,6 +11,10 @@ A list of resources for all things AWS.
 
 ## Step Functions
 
+## Documentation
+
+* [Quotas](https://docs.aws.amazon.com/step-functions/latest/dg/limits-overview.html)
+
 ### Videos
 
 * [Parallelism and concurrency in Step Functions and AWS Lambda](https://www.youtube.com/watch?v=At5mw8T2riY) - 35 minutes deep dive on leveraging parallelism and concurrency when running step functions.
