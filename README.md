@@ -15,6 +15,10 @@ A list of resources for all things AWS.
 
 * [Quotas](https://docs.aws.amazon.com/step-functions/latest/dg/limits-overview.html)
 
+### Blogs
+
+* [Handling Errors, Retries, and adding Alerting to Step Function State Machine Executions](https://aws.amazon.com/blogs/developer/handling-errors-retries-and-adding-alerting-to-step-function-state-machine-executions/) - Official AWS blog post about error handling in Step Functions.
+
 ### Videos
 
 * [Parallelism and concurrency in Step Functions and AWS Lambda](https://www.youtube.com/watch?v=At5mw8T2riY) - 35 minutes deep dive on leveraging parallelism and concurrency when running step functions.
