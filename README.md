@@ -21,6 +21,7 @@ A list of resources for all things AWS.
 ### Documentation
 
 * [Quotas](https://docs.aws.amazon.com/step-functions/latest/dg/limits-overview.html)
+* [Amazon States Language](https://states-language.net/spec.html) - Describes the JSON-based for describing state machines declaratively that is used by Setp Functions.
 
 ### Blogs
 
