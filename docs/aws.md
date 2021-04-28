@@ -11,6 +11,10 @@ A list of resources for all things AWS.
 
 ## EventBridge
 
+### Blogs
+
+* [Building Salesforce integrations with Amazon EventBridge and Amazon AppFlow](https://aws.amazon.com/blogs/compute/building-salesforce-integrations-with-amazon-eventbridge/) - Official AWS blog post that gives a step-by-step overview of handling a Salesforce event with an AWS Lambda function using AppFlow and EventBridge.
+
 ### Videos
 
 * [Building event-driven architectures w/ Amazon EventBridge](https://www.youtube.com/watch?v=Hih-bF8qYgU) - 50 minute presentation on implementing event driven systems using EventBridge from re:Invent 2019.
