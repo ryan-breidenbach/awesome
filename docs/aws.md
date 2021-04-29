@@ -18,6 +18,7 @@ A list of resources for all things AWS.
 ### Documentation
 
 [Amazon EventBridge permissions reference](https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-permissions-reference.html) - List of the actions you can specify in an IAM policy for use with EventBridge.
+[Amazon EventBridge troubleshooting](https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-troubleshooting.html) - Official troubleshooting guide.
 
 ### Videos
 
