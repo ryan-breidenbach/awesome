@@ -2,6 +2,12 @@
 
 A list of resources for all things AWS.
 
+## API Gateway
+
+### Documentation
+
+* [Integration subtype reference](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-develop-integrations-aws-services-reference.html) - Reference for integrating an HTTP API route with an AWS service list EventBridge or SQS.
+
 ## DynamoDB
 
 ### Videos
