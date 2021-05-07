@@ -2,6 +2,12 @@
 
 A list of resources for all things AWS.
 
+## General Architecture
+
+### Vidoes
+
+[Building with AWS Databases: Match Your Workload to the Right Database](https://www.youtube.com/watch?v=hwnNbLXN4vA) - 50 minute presentation from re:Invent 2018 that discusses picking the right type of database (e.g. relational, NoSQL, Graph) for your workload 
+
 ## API Gateway
 
 ### Documentation
