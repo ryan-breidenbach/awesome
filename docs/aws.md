@@ -37,6 +37,12 @@ A list of resources for all things AWS.
 * [Building event-driven architectures w/ Amazon EventBridge](https://www.youtube.com/watch?v=Hih-bF8qYgU) - 50 minute presentation on implementing event driven systems using EventBridge from re:Invent 2019.
 * [Deep Dive on Amazon EventBridge - AWS Online Tech Talks](https://www.youtube.com/watch?v=28B4L1fnnGM) - 50 minute demonstration of building an application using EventBridge from AWS Online Tech Talks series. Lots of code and console examples.
 
+## SAM (Serverless Application Model)
+
+### Documentation
+
+* [Develer Guide](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html) - Official documentation for SAM.
+
 ## Step Functions
 
 ### Documentation
