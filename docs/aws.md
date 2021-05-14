@@ -41,7 +41,7 @@ A list of resources for all things AWS.
 
 ### Documentation
 
-* [Develer Guide](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html) - Official documentation for SAM.
+* [Developer Guide](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html) - Official documentation for SAM.
 
 ## Step Functions
 
