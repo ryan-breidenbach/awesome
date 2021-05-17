@@ -37,6 +37,12 @@ A list of resources for all things AWS.
 * [Building event-driven architectures w/ Amazon EventBridge](https://www.youtube.com/watch?v=Hih-bF8qYgU) - 50 minute presentation on implementing event driven systems using EventBridge from re:Invent 2019.
 * [Deep Dive on Amazon EventBridge - AWS Online Tech Talks](https://www.youtube.com/watch?v=28B4L1fnnGM) - 50 minute demonstration of building an application using EventBridge from AWS Online Tech Talks series. Lots of code and console examples.
 
+## IAM
+
+### Documentation
+
+[Actions, resources, and condition keys for AWS services](https://docs.aws.amazon.com/service-authorization/latest/reference/reference_policies_actions-resources-contextkeys.html) - Comprehensive list of IAM actions and resources for every AWS service. This is a great resource when configuring IAM policies.
+
 ## S3
 
 ### Documentation
