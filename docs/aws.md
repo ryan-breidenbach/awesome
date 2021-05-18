@@ -43,6 +43,12 @@ A list of resources for all things AWS.
 
 [Actions, resources, and condition keys for AWS services](https://docs.aws.amazon.com/service-authorization/latest/reference/reference_policies_actions-resources-contextkeys.html) - Comprehensive list of IAM actions and resources for every AWS service. This is a great resource when configuring IAM policies.
 
+## Lambda
+
+### Blogs
+
+[Avoiding the pitfalls of async Node.js functions in AWS Lambda](https://levelup.gitconnected.com/avoiding-the-pitfalls-of-async-node-js-functions-in-aws-lambda-941220582e7a) - Blog post describing why you should always `await` async functions so that all background work is complete before the Lambda function exits.
+
 ## S3
 
 ### Documentation
