@@ -4,6 +4,12 @@
 
 There is a whole page dedicated to [Awesome AWS](./docs/aws.md).
 
+## Cloudflare
+
+### Documentation
+
+[Debugging Workers](https://developers.cloudflare.com/workers/learning/debugging-workers) - Documentation for debugging Workers locally and in production.
+
 ## GitHub Actions
 
 ### Documentation
