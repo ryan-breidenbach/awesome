@@ -16,6 +16,10 @@ A list of resources for all things AWS.
 
 ## DynamoDB
 
+### Blogs
+
+[DynamoDB JavaScript DocumentClient cheat sheet](https://github.com/dabit3/dynamodb-documentclient-cheat-sheet) - Excellent resource for creating a DynamoDB client in JavaScript.
+
 ### Videos
 
 * [Data modeling with Amazon DynamoDB](https://www.youtube.com/watch?v=DIQVJqiSUkE) - 40 minute introduction to DynamoDB from re:Invent 2019.
