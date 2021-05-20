@@ -23,3 +23,9 @@ There is a whole page dedicated to [Awesome AWS](./docs/aws.md).
 * [Creating a composite run steps action](https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action) - Steps to create a composite tun steps action. This is an action that is composed of multiple related actions, allowing common workflows to be shared.
 * [Environments](https://docs.github.com/en/actions/reference/environments) - Documentation for GitHub Environments which can be used to manage protection rules and secrets for different deployment environments.
 * [Reviewing deployments](https://docs.github.com/en/actions/managing-workflow-runs/reviewing-deployments) - How to view, approve, and reject jobs waiting for approval.
+
+## MuleSoft
+
+### Articles
+
+* [Mule API: Experience, Process, System](https://dzone.com/articles/mule-api-experience-process-system-layer-example) - DZone from February, 2019 explain the three MuleSoft API layers.
